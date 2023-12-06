@@ -3,13 +3,13 @@
 
 
 
-## Hello! Nice to meet you!
+# 𝙃𝙚𝙡𝙡𝙤! 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪!
 Welcome to my page! <br/>
 I'm Jong Heon, I'm student, currently living in Seoul, Korea.
 
 <br>
 
-## Contact
+# 𝘾𝙤𝙣𝙩𝙚𝙘𝙩
 <div style="display:flex; flex-direction:row;">
     <a href="jjong123974@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
