@@ -5,7 +5,7 @@
 
 # 𝙃𝙚𝙡𝙡𝙤! 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪!
 Welcome to my page! <br/>
-I'm Jong Heon, I'm student, currently living in Seoul, Korea.
+I'm Jong Heon, I'm student, currently living in Seoul, Korea.<img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
 
 <br>
 
