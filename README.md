@@ -5,11 +5,24 @@
 
 # 𝙃𝙚𝙡𝙡𝙤! 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙢𝙚𝙚𝙩 𝙮𝙤𝙪!
 Welcome to my page! <br/>
-I'm Jong Heon, I'm student, currently living in Seoul, Korea.<img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
+I'm Jong Heon, I'm student, currently living in Seoul, Korea <img src="https://user-images.githubusercontent.com/70050528/189471349-b61089ef-38fa-4c0a-acd5-776f094f0809.png" width="20" style="max-width: 100%;">
 
 <br>
 
+<h2> 𝙈𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙩𝙚𝙘𝙝 📚</h2>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+</p>
+<br>
+
 # 𝘾𝙤𝙣𝙩𝙚𝙘𝙩
+
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jjong1239174@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
