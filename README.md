@@ -9,7 +9,7 @@ I'm Jong Heon, I'm student, currently living in Seoul, Korea <img src="https://u
 
 <br>
 
-<h2> 𝙈𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙩𝙚𝙘𝙝 📚</h2>
+# 𝙈𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙩𝙚𝙘𝙝 📚
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
